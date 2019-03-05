@@ -29,6 +29,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Support or Contact
+### Contact
 
 While this dataset is distributed and maintained by the CODEC network, if you have any questions about this dataset, please do not hesitate to contact its creator: Abraham Tidwell, [abraham.tidwell@uga.edu](mailto:abraham.tidwell@uga.edu).

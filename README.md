@@ -1,32 +1,43 @@
-## Energy at Home
-
+# Energy at Home
+[![DOI](https://zenodo.org/badge/###.svg)](https://zenodo.org/badge/latestdoi/###)
 The energy at home dataset is a labor of love resulting from a field-based case study showcased in "Oh, Give Me a Home, Where the Innovations Roam," of _Morals in Transition: Imaginaries and American National Identity Through Three Energy Transitions._ 
 
 Conducted over the course of six months (January 2017-June 2017) and covering 84 unique sites, this dataset is one of the first comprehensive treatments of user-experience analysis analysis of energy efficiency marketing and science communication in new home builds. 
 
-## Description of the Dataset
-Description
+## Creator
+[Dr. Abraham Tidwell](mailto:abraham.tidwell@uga.edu)
+[Dr. Jacqueliem Hettel Tidwell] (mailto:jacqueline.tidwell@uga.edu)
 
-### Markdown
+### Completion Date
+First data import:
+Final site visit:
+Publication online: March 4, 2019
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Rights
+This dataset is open access. Please use proper attribution when citing this study, including author, date, and DOI number. 
+________________________________________
 
+## Research Study Description
+The purpose of this study was to examine the various forms of informal science learning practices carried out by suburban home builders in the metropolitan Phoenix area. The data included in this process took the form of documents, first-person perspective videos, and mapping analysis.
+
+## Sampling Frame
+### Temporal Coverage
+This dataset was collected through fieldwork between January 2017 and June 2017. 
+
+### Spatial Coverage
+Suburban builders in the Phoenix metropolitan area were included in this study. The geographic extent of this project can be found in xxx.csv.
+
+## Data Description
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
+Types of data/files *number of each*
 - Bulleted
 - List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+## Data Collection and Data Entry
+```markdown
+Types of files/formats for each of the different data types.
+- Bulleted
+- List
 ```
 
 ### Contact

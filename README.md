@@ -6,7 +6,7 @@ Conducted over the course of six months (January 2017-June 2017) and covering 84
 
 ## Creator
 [Dr. Abraham Tidwell](mailto:abraham.tidwell@uga.edu)
-[Dr. Jacqueliem Hettel Tidwell] (mailto:jacqueline.tidwell@uga.edu)
+[Dr. Jacqueline Hettel Tidwell](mailto:jacqueline.tidwell@uga.edu)
 
 ## Completion Date
 First data import:

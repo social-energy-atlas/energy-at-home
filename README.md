@@ -1,5 +1,5 @@
 # Energy at Home
-[![DOI](https://zenodo.org/badge/2583332.svg)](https://zenodo.org/badge/latestdoi/2583332)
+[![DOI](https://zenodo.org/badge/173856328.svg)](https://zenodo.org/badge/latestdoi/173856328)
 The energy at home dataset is a labor of love resulting from a field-based case study showcased in "Oh, Give Me a Home, Where the Innovations Roam," a chapter in _Morals in Transition: Imaginaries and American National Identity Through Three Energy Transitions._ 
 
 Conducted over the course of six months (January 2017-June 2017) and covering 84 unique sites, this dataset is one of the first comprehensive treatments of user-experience analysis analysis of energy efficiency marketing and science communication in new home builds. 

@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Energy at Home
 
-You can use the [editor on GitHub](https://github.com/social-energy-atlas/energy-at-home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The energy at home dataset is a labor of love resulting from a field-based case study showcased in "Oh, Give Me a Home, Where the Innovations Roam," of _Morals in Transition: Imaginaries and American National Identity Through Three Energy Transitions._ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Conducted over the course of six months (January 2017-June 2017 and covering 84 unique sites, this dataset is one of the first comprehensive treatments of user-experience analysis analysis of energy efficiency marketing and science communication in new home builds. 
+
+## Description of the Dataset
+Description
 
 ### Markdown
 
@@ -26,12 +29,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/social-energy-atlas/energy-at-home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+While this dataset is distributed and maintained by the CODEC network, if you have any questions about this dataset, please do not hesitate to contact its creator: Abraham Tidwell, [abraham.tidwell@uga.edu](mailto:abraham.tidwell@uga.edu).

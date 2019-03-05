@@ -8,14 +8,13 @@ Conducted over the course of six months (January 2017-June 2017) and covering 84
 [Dr. Abraham Tidwell](mailto:abraham.tidwell@uga.edu)
 [Dr. Jacqueliem Hettel Tidwell] (mailto:jacqueline.tidwell@uga.edu)
 
-### Completion Date
+## Completion Date
 First data import:
 Final site visit:
 Publication online: March 4, 2019
 
 ## Rights
 This dataset is open access. Please use proper attribution when citing this study, including author, date, and DOI number. 
-________________________________________
 
 ## Research Study Description
 The purpose of this study was to examine the various forms of informal science learning practices carried out by suburban home builders in the metropolitan Phoenix area. The data included in this process took the form of documents, first-person perspective videos, and mapping analysis.
@@ -40,6 +39,6 @@ Types of files/formats for each of the different data types.
 - List
 ```
 
-### Contact
+## Contact
 
 While this dataset is distributed and maintained by the CODEC network, if you have any questions about this dataset, please do not hesitate to contact its creator: Abraham Tidwell, [abraham.tidwell@uga.edu](mailto:abraham.tidwell@uga.edu).
